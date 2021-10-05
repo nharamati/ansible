@@ -4,3 +4,10 @@
   - name: install htop
     apt: name=htop
 
+  - name: install mc
+    apt: name=mc
+
+  - name: install tmux
+    apt: name=tmux
+
+
