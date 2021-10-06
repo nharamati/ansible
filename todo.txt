@@ -1,0 +1,6 @@
+# razer drivers ubuntu
+
+add-apt-repository ppa:openrazer/stable
+add-apt-repository ppa:polychromatic/stable
+
+apt install openrazer-meta polychromatic
